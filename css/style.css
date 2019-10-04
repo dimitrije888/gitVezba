@@ -12,3 +12,7 @@ h2{
 	color:black;
 	font-size: 75;
 }
+nav{
+	display: inline-flex;
+	background-color: red;
+}
