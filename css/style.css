@@ -17,7 +17,18 @@ p{
 	color:yellow;
 	font-size: 33;
 	font-weight: 700;
+}
 nav{
 	display: inline-flex;
 	background-color: red;
+}
+.left-top{
+	position:absolute;
+	left:10px;
+	top:10px;
+}
+.manja-slicka{
+	position:absolute;
+	left:10px;
+	top:10px;
 }
