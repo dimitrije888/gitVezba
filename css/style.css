@@ -19,7 +19,6 @@ p{
 	color:yellow;
 	font-size: 33;
 	font-weight: 700;
-
 }
 nav {
 	margin-top: 30px;
@@ -33,4 +32,14 @@ nav a{
 }
 a{
 	text-decoration: none;
+}
+.left-top{
+	position:absolute;
+	left:10px;
+	top:10px;
+}
+.manja-slicka{
+	position:absolute;
+	left:10px;
+	top:10px;
 }
