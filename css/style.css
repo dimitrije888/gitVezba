@@ -19,6 +19,7 @@ p{
 	color:yellow;
 	font-size: 33;
 	font-weight: 700;
+
 }
 nav {
 	margin-top: 30px;
@@ -29,4 +30,7 @@ nav a{
 	font-size: 20pt;
 	border: 1px solid blue;
 	
+}
+a{
+	text-decoration: none;
 }
