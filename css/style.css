@@ -12,3 +12,9 @@ h2{
 	color:black;
 	font-size: 75;
 }
+
+p{
+	color:yellow;
+	font-size: 33;
+	font-weight: 700;
+}
