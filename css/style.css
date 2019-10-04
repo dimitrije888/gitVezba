@@ -1,6 +1,7 @@
  body{
  	background: dodgerblue;
- 	text-align:center;
+	text-align:center;
+	position: relative;
  }
 
  h1{
@@ -42,4 +43,11 @@ a{
 	position:absolute;
 	left:10px;
 	top:10px;
+}
+.footer{
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	color: white;
+	font-weight: bold;
 }
