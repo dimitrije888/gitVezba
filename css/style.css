@@ -17,4 +17,7 @@ p{
 	color:yellow;
 	font-size: 33;
 	font-weight: 700;
+nav{
+	display: inline-flex;
+	background-color: red;
 }
