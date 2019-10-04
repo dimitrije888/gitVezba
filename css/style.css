@@ -12,6 +12,14 @@ h2{
 	color:black;
 	font-size: 75;
 }
+<<<<<<< HEAD
 h3{
 	font-size: 50px;
+=======
+
+p{
+	color:yellow;
+	font-size: 33;
+	font-weight: 700;
+>>>>>>> 541900e28fd3c1ab76354d064009a6dd460c59f0
 }
